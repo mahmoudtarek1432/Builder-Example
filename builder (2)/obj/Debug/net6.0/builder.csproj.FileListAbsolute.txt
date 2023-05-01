@@ -1,0 +1,30 @@
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder\builder\bin\Debug\net6.0\builder.exe
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder\builder\bin\Debug\net6.0\builder.deps.json
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder\builder\bin\Debug\net6.0\builder.runtimeconfig.json
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder\builder\bin\Debug\net6.0\builder.dll
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder\builder\bin\Debug\net6.0\builder.pdb
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder\builder\obj\Debug\net6.0\builder.csproj.AssemblyReference.cache
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder\builder\obj\Debug\net6.0\builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder\builder\obj\Debug\net6.0\builder.AssemblyInfoInputs.cache
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder\builder\obj\Debug\net6.0\builder.AssemblyInfo.cs
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder\builder\obj\Debug\net6.0\builder.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder\builder\obj\Debug\net6.0\builder.dll
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder\builder\obj\Debug\net6.0\refint\builder.dll
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder\builder\obj\Debug\net6.0\builder.pdb
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder\builder\obj\Debug\net6.0\builder.genruntimeconfig.cache
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder\builder\obj\Debug\net6.0\ref\builder.dll
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder (2)\bin\Debug\net6.0\builder.exe
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder (2)\bin\Debug\net6.0\builder.deps.json
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder (2)\bin\Debug\net6.0\builder.runtimeconfig.json
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder (2)\bin\Debug\net6.0\builder.dll
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder (2)\bin\Debug\net6.0\builder.pdb
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder (2)\obj\Debug\net6.0\builder.csproj.AssemblyReference.cache
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder (2)\obj\Debug\net6.0\builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder (2)\obj\Debug\net6.0\builder.AssemblyInfoInputs.cache
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder (2)\obj\Debug\net6.0\builder.AssemblyInfo.cs
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder (2)\obj\Debug\net6.0\builder.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder (2)\obj\Debug\net6.0\builder.dll
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder (2)\obj\Debug\net6.0\refint\builder.dll
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder (2)\obj\Debug\net6.0\builder.pdb
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder (2)\obj\Debug\net6.0\builder.genruntimeconfig.cache
+C:\Users\mahmoud_tarek\source\repos\Builder-design-pattern\builder (2)\obj\Debug\net6.0\ref\builder.dll
